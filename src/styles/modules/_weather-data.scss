@@ -12,7 +12,7 @@
       justify-content: center;
       margin-top: 5rem;
       @include respond(tablet) {
-        margin-top: 1rem;
+        margin-top: 3rem;
         margin-bottom: 1rem;
       }
       @include respond(largePhone) {
