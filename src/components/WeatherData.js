@@ -20,7 +20,7 @@ const WeatherData = () => {
 
                     <p className="weather-data__title">Temperature</p>
 
-                    <p className="weather-data__value">{temp} °C</p>
+                    <p className="weather-data__value">{temp.toFixed()} °C</p>
 
                 </span>
 
